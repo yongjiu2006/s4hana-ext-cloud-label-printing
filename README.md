@@ -29,7 +29,7 @@ Download and Installation
 -------------
 This repository is a part of the [Download the Application](https://help.sap.com/viewer/24c083dc31104041a202933f34bd2af2/SHIP/en-US/29c512fa3d22440eac8ccbc4884cb277.html) step in the tutorial. Instructions for use can be found in that step.
 
-[Please download the zip file by clicking here](https://github.wdf.sap.corp/staging-for-SAP-samples-public/s4hana-ext-cloud-label-printing/archive/master.zip) so that the code can be used in the tutorial.
+[Please download the zip file by clicking here](https://github.com/SAP-samples/s4hana-ext-cloud-label-printing/archive/master.zip) so that the code can be used in the tutorial.
 
 Known issues
 ---------------------
